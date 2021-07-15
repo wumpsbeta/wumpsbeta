@@ -11,7 +11,10 @@ This account is the offical account for Wumps. Wumps is a multipurpose bot on Di
 
 [Click here](https://discord.gg/vJqHGbtuzQ) to join the official server.
 
+
 Status:
-https://discord.c99.nl/widget/theme-4/801468894400610324.png
+
+
+![discord banner](https://discord.c99.nl/widget/theme-1/801468894400610324.png)
 
 
