@@ -1,7 +1,19 @@
 ### Wumps#3584
 
 
-This account is the offical account for Wumps. Wumps is a multipurpose bot on Discord.
+Wumps is a fully customizable server multipurpose Discord bot for your Discord server. It is an enjoyable and family friendly bot. 
+
+Wumps includes many features such as: economy, leveling, suggestions, welcoming, and much more.
+
+Wumps is used on 300+ servers, we invite you to try it out and hope you enjoy!
+
+Wumps is also updated frequently with new features and enhancements. If there are any new features that you would like to see, suggest them in our Discord server. 
+
+Links:
+
+
+
+
 
 [Click here](https://top.gg/bot/801468894400610324) to view the bot on top.gg.
 
@@ -15,6 +27,6 @@ This account is the offical account for Wumps. Wumps is a multipurpose bot on Di
 Status:
 
 
-![discord banner](https://discord.c99.nl/widget/theme-1/801468894400610324.png)
+![discord banner](https://discord.c99.nl/widget/theme-4/801468894400610324.png)
 
 
